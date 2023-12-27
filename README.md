@@ -13,12 +13,9 @@ Below, you can find descriptions of the different systems, how they work and som
     - [Mass generation interface](#mass-generation-interface)
       - [Item archetypes](#item-archetypes)
 
-
 ## Launcher & Website
 
-<img src="./assets/website_1.png" width="32%">
-<img src="./assets/website_2.png" width="32%">
-<img src="./assets/website_3.png" width="32%">
+<img src="./assets/website_1.png" width="32%"> <img src="./assets/website_2.png" width="32%"> <img src="./assets/website_3.png" width="32%">
 
 **Languages used**: PHP, JavaScript (TypeScript), Node.JS (Express, Angular, Electron) 
 
@@ -30,11 +27,10 @@ It is communicating to a back-end written in JavaScript using Node.JS and Expres
 
 Once the launcher has done the required client-side changes, the player can press start and the custom experience is ready to be enjoyed.
 
-<video src="./assets/launcher.mp4" controls="controls" style="max-width: 730px;">
-</video>
+https://github.com/fredriksa/Waloria/blob/main/assets/launcher.mp4
 
-<video src="./assets/loginscreen.mp4" controls="controls" style="max-width: 730px;">
-</video>
+<video src="https://github.com/fredriksa/Waloria/blob/main/assets/launcher.mp4" controls="controls" style="max-width: 730px"></video> 
+<video src="./assets/loginscreen.mp4" controls="controls" style="max-width: 730px;"></video>
 
 ## Procedural Items & Profession Recipes
 
