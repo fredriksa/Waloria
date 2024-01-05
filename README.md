@@ -31,10 +31,9 @@ Once the launcher has done the required client-side changes, the player can pres
 
 https://github.com/fredriksa/Waloria/assets/4513815/f10674c3-31fb-429b-941e-2f72c1dac054
 
+https://github.com/fredriksa/Waloria/assets/4513815/fbe88779-1e16-446f-81ef-b9a7e0532187
 
 
-<video src="https://github.com/fredriksa/Waloria/blob/main/assets/launcher.mp4" controls="controls" style="max-width: 730px"></video> 
-<video src="./assets/loginscreen.mp4" controls="controls" style="max-width: 730px;"></video>
 
 ## Procedural Items & Profession Recipes
 
