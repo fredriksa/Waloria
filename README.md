@@ -27,7 +27,11 @@ It is communicating to a back-end written in JavaScript using Node.JS and Expres
 
 Once the launcher has done the required client-side changes, the player can press start and the custom experience is ready to be enjoyed.
 
-https://github.com/fredriksa/Waloria/blob/main/assets/launcher.mp4
+
+
+https://github.com/fredriksa/Waloria/assets/4513815/f10674c3-31fb-429b-941e-2f72c1dac054
+
+
 
 <video src="https://github.com/fredriksa/Waloria/blob/main/assets/launcher.mp4" controls="controls" style="max-width: 730px"></video> 
 <video src="./assets/loginscreen.mp4" controls="controls" style="max-width: 730px;"></video>
