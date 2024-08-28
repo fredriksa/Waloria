@@ -279,6 +279,12 @@ https://github.com/fredriksa/Waloria/assets/4513815/fbe88779-1e16-446f-81ef-b9a7
 
 - Re-modelled attack-speed for all slots and weapon combos, e.g, main-hand sword will now have more realistic damage and attack speed values.
 
+  - Blue = Blizzard's items, green = Waloria's items, yellow = new proposed Waloria model
+
+<img src="./assets/calibration_dps.png" width="70%">
+
+<img src="./assets/calibration_dps_2.png" width="90%">
+
 - Re-modelled buy and sale price calculations after Blizzard's items.
 
 - Removed durability for neck, finger & trinket.
@@ -420,6 +426,9 @@ https://github.com/fredriksa/Waloria/assets/4513815/fbe88779-1e16-446f-81ef-b9a7
 - Added missing loot drops to Grizzle in BRD
 - Respawning with the respawn system now yields full health and mana
 - Instant queue mode is now live, you can find it in the main server panel under customizationit is pay per use and requires at least one additional group member
+
+<img src="./assets/dungeonfindermode.png">
+
 - Fixed an issue where thrown weapons had durability
 - Emblem of the ancients now properly drop from final bosses
 - Increased drop count for "Emblems of the Everliving" and "Emblems of the Ancients" to now drop 1 to 2 per final boss in difficulty IV or V
